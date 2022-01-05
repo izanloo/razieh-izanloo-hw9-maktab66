@@ -1,0 +1,38 @@
+.navbar-brand{
+    color:#c4c1c1 !important;
+}
+
+.camera{
+    height: 450px;
+}
+
+.linee{
+    width: 5%;
+    right: 48%;
+    border:1px solid black;
+}
+
+.card-pic{
+    width: max-content;
+    height: 50px;
+    margin-left: 21px;
+}
+
+.bg-gray{
+    background-color:#cccccc;
+}
+.bg-lighter{
+    background-color: #efefef;
+}
+.cards2{
+    height: 250px;
+}
+
+.d-contents{
+    display: contents;
+}
+
+.img-card{
+    width: max-content;
+    height: 50px;
+}
